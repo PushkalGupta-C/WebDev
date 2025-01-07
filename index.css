@@ -16,6 +16,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  align-items: flex-start;
 }
 .sidebar h2 {
   color: #00ffff;
@@ -40,7 +41,7 @@ body {
   background-color: #282828;
   padding: 15px;
   border-radius: 8px;
-  margin-top: 20px;
+  margin-top: auto;
 }
 .focus-box h3 {
   color: #00ffff;
